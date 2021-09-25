@@ -7,4 +7,4 @@ Create a simple calendar application that allows a user to save events for each 
 https://brynne-eastman.github.io/Work-Day-Scheduler-Challenge/
 
 ### Screenshot
-![screenshot](./assets/video/Work-Day-Scheduler-Challenge.webm)
+![screenshot](./assets/images/Work-Day-Scheduler-Challenge.png)
